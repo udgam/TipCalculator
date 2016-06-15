@@ -4,7 +4,7 @@
 
 Submitted by: **Udgam Goyal**
 
-Time spent: **1** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-I ran into issues downloading XCode, so I was forced to start actually building my app much later.
+I ran into issues downloading XCode, so I was forced to start actually building my app much later, at 2:30 pm specifically.
 
 ## Credits
 
